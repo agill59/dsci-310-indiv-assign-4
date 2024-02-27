@@ -40,7 +40,7 @@ knitr [@knitr], tidyverse [@tidyverse], and Quarto [@Allaire_Quarto_2022].
 
 ## Results
 
-![Horse populations for all provinces in Canada from 1906 - 1972](../results/horse_pops_plot.png){width=80% #fig-1}
+![Horse populations for all provinces in Canada from 1906 - 1972](results/horse_pops_plot.png){width=80% #fig-1}
 
 
 We can see from @fig-1 that Ontario, Saskatchewan and Alberta 
@@ -77,7 +77,7 @@ $$s = \sqrt{\frac{\sum_{i=1}^N (x_i - \overline{x})^2}{N-1} }$$
 
 Additionally, note that in @tbl-horses-sd we consider the sample standard deviation of the number of horses during the same time span as @fig-1.
 
-![Horse populations for the province with the largest standard deviation](../results/horse_pop_plot_largest_sd.png){width=70% #fig-2}
+![Horse populations for the province with the largest standard deviation](results/horse_pop_plot_largest_sd.png){width=70% #fig-2}
 
 
 In @fig-2 we zoom in and look at the province of Saskatchewan, which had the largest spread of values in terms of standard deviation.
